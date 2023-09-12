@@ -1,1 +1,1 @@
-# default-casino
+# strapi
