@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_licensing_licensings",
+  "info": {
+    "displayName": "Licensing",
+    "icon": "file"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "name": {
+      "type": "string"
+    }
+  }
+}
