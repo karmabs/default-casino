@@ -764,7 +764,7 @@ export interface ApiBrandBrand extends Schema.CollectionType {
           localized: true;
         };
       }>;
-    Licensing: Attribute.Component<'licensing.licensing'> &
+    Licensing: Attribute.Component<'licensing.licensing', true> &
       Attribute.SetPluginOptions<{
         i18n: {
           localized: true;

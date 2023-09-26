@@ -7,7 +7,6 @@
     "displayName": "Brand",
     "description": ""
   },
-  
   "options": {
     "draftAndPublish": true
   },
@@ -149,7 +148,7 @@
     "Licensing": {
       "displayName": "Licensing",
       "type": "component",
-      "repeatable": false,
+      "repeatable": true,
       "pluginOptions": {
         "i18n": {
           "localized": true
