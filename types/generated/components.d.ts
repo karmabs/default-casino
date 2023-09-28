@@ -11,6 +11,7 @@ export interface BonusesBonus extends Schema.Component {
     titlebonus: Attribute.String;
     descriptionbonus: Attribute.String;
     badgebonus: Attribute.String;
+    Linkbonus: Attribute.String;
   };
 }
 

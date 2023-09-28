@@ -15,6 +15,9 @@
     },
     "badgebonus": {
       "type": "string"
+    },
+    "Linkbonus": {
+      "type": "string"
     }
   }
 }
